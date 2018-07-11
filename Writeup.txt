@@ -1,0 +1,32 @@
+                                            A Weather Client Using XML
+
+Login id : asg6506
+Name : Akshat Sunil Gawankar
+
+References :      http://pirate.shu.edu/~wachsmut/Teaching/CSAS2214/Virtual/Lectures/chat-client-server.html
+                         http://w1.weather.gov/xml/current_obs/
+                         https://stackoverflow.com/questions/18590901/check-if-a-string-contains-numbers-java
+                         https://stackoverflow.com/questions/26407040/case-insensitive-matching-in-java
+
+
+
+Environments:
+ 
+1.Programing Language used : Java
+
+2.IDE used : Eclipse
+
+How to run the code :
+1.Start eclipse IDE and open the files.
+
+2.Then right click on the server.java and click on Run as Java application. The server will start.
+
+3.Follow the same steps for client.
+
+4.The Result are displayed in client textfield.
+
+5.The server is made Multithreaded.It can handle multiple information, without restarting, at a single time.
+
+   
+Note : Please enter correct Latitude and Longitude values otherwise data will not be displayed. 
+

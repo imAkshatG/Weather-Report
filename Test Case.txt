@@ -1,0 +1,22 @@
+Test Case:
+1.Enter Latitude 51.76667 and Longitude -114.68333
+
+2.Click on Search
+
+Temperature : 17.0 °F (-8.6 °C)
+ 
+Dewpoint : 11.1 °F (-11.6 °C)
+
+Relative Humidity : 79 %
+
+Wind:	Southwest at 3.5 MPH (3 KT)
+
+MSL Pressure:	1021.0 mb
+
+
+If the latitude and longitude values are kept blank alert box will show up.
+
+
+3.Click on refresh to enter different values.
+
+ 
